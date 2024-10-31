@@ -3,7 +3,7 @@
 Aplikasi ini adalah aplikasi sederhana berbasis Flutter untuk login menggunakan nama pengguna dan kata sandi. Jika kredensial benar, pengguna diarahkan ke halaman utama. Jika salah, aplikasi akan menampilkan notifikasi kesalahan.
 
 ## Link GitHub
-Untuk mengunduh atau melihat kode lebih lanjut, silakan kunjungi [Repository GitHub Proyek]((https://github.com/Aima07/Flutter-Login)).
+Untuk mengunduh atau melihat kode lebih lanjut, silakan kunjungi https://github.com/Aima07/Flutter-Login.
 
 ## Teknologi yang Digunakan
 - **Framework**: Flutter
