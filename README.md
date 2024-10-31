@@ -35,13 +35,13 @@ flutter run
 ## Screenshot Aplikasi
 
 ### Halaman Login
-![Halaman Login](screenshot/login_page.png)
+![Halaman Login](login/screenshot/login_page.png)
 
 ### Halaman Dashboard
-![Halaman Dashboard](screenshot/dashboard_page.png)
+![Halaman Dashboard](login/screenshot/dashboard_page.png)
 
 ### Halaman Kesalahan Login
-![Halaman Kesalahan Login](screenshot/login_failed_page.png)
+![Halaman Kesalahan Login](login/screenshot/login_failed_page.png)
 
 ## Struktur Kode
 
